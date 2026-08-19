@@ -48,6 +48,12 @@
     "path": "data/people/p_xabier_san_sebastian.json"
   },
   {
+    "id": "p_xacio_rodriguez_bano",
+    "name": "Xacio Rodríguez Baño",
+    "birth_year": 1982,
+    "path": "data/people/p_xacio_rodriguez_bano.json"
+  },
+  {
     "id": "p_xan_aranda",
     "name": "Xan Aranda",
     "path": "data/people/p_xan_aranda.json"
@@ -139,6 +145,12 @@
     "path": "data/people/p_xavi_gimenez.json"
   },
   {
+    "id": "p_xavi_hernandez",
+    "name": "Xavi Hernández",
+    "birth_year": 1980,
+    "path": "data/people/p_xavi_hernandez.json"
+  },
+  {
     "id": "p_xavi_mira",
     "name": "Xavi Mira",
     "birth_year": 1968,
@@ -162,6 +174,12 @@
     "path": "data/people/p_xavier_agudo.json"
   },
   {
+    "id": "p_xavier_alcan",
+    "name": "Xavier Alcan",
+    "birth_year": 1962,
+    "path": "data/people/p_xavier_alcan.json"
+  },
+  {
     "id": "p_xavier_amatller",
     "name": "Xavier Amatller",
     "path": "data/people/p_xavier_amatller.json"
@@ -183,6 +201,11 @@
     "name": "Xavier Atkins",
     "birth_year": 1999,
     "path": "data/people/p_xavier_atkins.json"
+  },
+  {
+    "id": "p_xavier_baig",
+    "name": "Xavier Baig",
+    "path": "data/people/p_xavier_baig.json"
   },
   {
     "id": "p_xavier_baumaxa",
@@ -594,6 +617,12 @@
     "path": "data/people/p_xhilda_lapardhaja.json"
   },
   {
+    "id": "p_xi_jinping",
+    "name": "Xi Jinping",
+    "birth_year": 1953,
+    "path": "data/people/p_xi_jinping.json"
+  },
+  {
     "id": "p_xi_meijuan",
     "name": "Xi Meijuan",
     "birth_year": 1955,
@@ -782,6 +811,11 @@
     "path": "data/people/p_ximena_rubio.json"
   },
   {
+    "id": "p_ximena_valdivia",
+    "name": "Ximena Valdivia",
+    "path": "data/people/p_ximena_valdivia.json"
+  },
+  {
     "id": "p_xin_baiqing",
     "name": "Xin Baiqing",
     "birth_year": 1973,
@@ -823,6 +857,12 @@
     "path": "data/people/p_xina_sui.json"
   },
   {
+    "id": "p_xindl_x",
+    "name": "Xindl X",
+    "birth_year": 1979,
+    "path": "data/people/p_xindl_x.json"
+  },
+  {
     "id": "p_xing_xing_cheng",
     "name": "Xing Xing Cheng",
     "birth_year": 1952,
@@ -838,6 +878,12 @@
     "id": "p_xingu_del_rosario",
     "name": "Xingu Del Rosario",
     "path": "data/people/p_xingu_del_rosario.json"
+  },
+  {
+    "id": "p_xinming_yang",
+    "name": "Xinming Yang",
+    "birth_year": 1956,
+    "path": "data/people/p_xinming_yang.json"
   },
   {
     "id": "p_xinyi_zhang",
@@ -872,6 +918,12 @@
     "name": "Xoel Yáñez",
     "birth_year": 1987,
     "path": "data/people/p_xoel_yanez.json"
+  },
+  {
+    "id": "p_xoliswa_sithole",
+    "name": "Xoliswa Sithole",
+    "birth_year": 1966,
+    "path": "data/people/p_xoliswa_sithole.json"
   },
   {
     "id": "p_xolo_mariduena",
@@ -983,6 +1035,12 @@
     "id": "p_xu_ruotao",
     "name": "Xu Ruotao",
     "path": "data/people/p_xu_ruotao.json"
+  },
+  {
+    "id": "p_xu_shendong",
+    "name": "Xu Shendong",
+    "birth_year": 1993,
+    "path": "data/people/p_xu_shendong.json"
   },
   {
     "id": "p_xu_xiaoxi",
