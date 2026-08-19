@@ -1,5 +1,10 @@
 [
   {
+    "id": "p_x_mayo",
+    "name": "X Mayo",
+    "path": "data/people/p_x_mayo.json"
+  },
+  {
     "id": "p_xabi_molia",
     "name": "Xabi Molia",
     "birth_year": 1977,
@@ -77,6 +82,11 @@
     "path": "data/people/p_xanae_bove.json"
   },
   {
+    "id": "p_xanaxtasia",
+    "name": "Xanaxtasia",
+    "path": "data/people/p_xanaxtasia.json"
+  },
+  {
     "id": "p_xander_berkeley",
     "name": "Xander Berkeley",
     "birth_year": 1955,
@@ -87,6 +97,11 @@
     "name": "Xander Corvus",
     "birth_year": 1988,
     "path": "data/people/p_xander_corvus.json"
+  },
+  {
+    "id": "p_xander_mouradian",
+    "name": "Xander Mouradian",
+    "path": "data/people/p_xander_mouradian.json"
   },
   {
     "id": "p_xander_robin",
@@ -272,6 +287,12 @@
     "path": "data/people/p_xavier_boiffier.json"
   },
   {
+    "id": "p_xavier_bonastre",
+    "name": "Xavier Bonastre",
+    "birth_year": 1953,
+    "path": "data/people/p_xavier_bonastre.json"
+  },
+  {
     "id": "p_xavier_boulanger",
     "name": "Xavier Boulanger",
     "birth_year": 1962,
@@ -429,6 +450,12 @@
     "path": "data/people/p_xavier_hosten.json"
   },
   {
+    "id": "p_xavier_jozelon",
+    "name": "Xavier Jozelon",
+    "birth_year": 1979,
+    "path": "data/people/p_xavier_jozelon.json"
+  },
+  {
     "id": "p_xavier_koller",
     "name": "Xavier Koller",
     "birth_year": 1944,
@@ -525,6 +552,11 @@
     "name": "Xavier Morin-Lefort",
     "birth_year": 1986,
     "path": "data/people/p_xavier_morinlefort.json"
+  },
+  {
+    "id": "p_xavier_nemo",
+    "name": "Xavier Nemo",
+    "path": "data/people/p_xavier_nemo.json"
   },
   {
     "id": "p_xavier_niel",
@@ -890,6 +922,17 @@
     "path": "data/people/p_ximena_herrera.json"
   },
   {
+    "id": "p_ximena_lamadrid",
+    "name": "Ximena Lamadrid",
+    "birth_year": 1996,
+    "path": "data/people/p_ximena_lamadrid.json"
+  },
+  {
+    "id": "p_ximena_malaga_sabogal",
+    "name": "Ximena Málaga Sabogal",
+    "path": "data/people/p_ximena_malaga_sabogal.json"
+  },
+  {
     "id": "p_ximena_medina_vasquez",
     "name": "Ximena Medina Vásquez",
     "path": "data/people/p_ximena_medina_vasquez.json"
@@ -954,6 +997,12 @@
     "path": "data/people/p_xin_yukun.json"
   },
   {
+    "id": "p_xin_yunlai",
+    "name": "Xin Yunlai",
+    "birth_year": 1994,
+    "path": "data/people/p_xin_yunlai.json"
+  },
+  {
     "id": "p_xin_zhang",
     "name": "Xin Zhang",
     "path": "data/people/p_xin_zhang.json"
@@ -969,6 +1018,11 @@
     "name": "Xindl X",
     "birth_year": 1979,
     "path": "data/people/p_xindl_x.json"
+  },
+  {
+    "id": "p_xing_wenxiong",
+    "name": "Xing Wenxiong",
+    "path": "data/people/p_xing_wenxiong.json"
   },
   {
     "id": "p_xing_xing_cheng",
@@ -1032,6 +1086,12 @@
     "path": "data/people/p_xochi_blymyer.json"
   },
   {
+    "id": "p_xochitl_gomez",
+    "name": "Xochitl Gomez",
+    "birth_year": 2006,
+    "path": "data/people/p_xochitl_gomez.json"
+  },
+  {
     "id": "p_xoel_yanez",
     "name": "Xoel Yáñez",
     "birth_year": 1987,
@@ -1084,6 +1144,12 @@
     "name": "Xu Ang",
     "birth_year": 1978,
     "path": "data/people/p_xu_ang.json"
+  },
+  {
+    "id": "p_xu_bin",
+    "name": "Xu Bin",
+    "birth_year": 1989,
+    "path": "data/people/p_xu_bin.json"
   },
   {
     "id": "p_xu_fan",
@@ -1221,6 +1287,11 @@
     "id": "p_xuan_zhao",
     "name": "Xuan Zhao",
     "path": "data/people/p_xuan_zhao.json"
+  },
+  {
+    "id": "p_xuban_intxausti",
+    "name": "Xuban Intxausti",
+    "path": "data/people/p_xuban_intxausti.json"
   },
   {
     "id": "p_xue_xiaolu",
