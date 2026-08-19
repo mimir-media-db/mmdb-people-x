@@ -6,6 +6,12 @@
     "path": "data/people/p_xabi_molia.json"
   },
   {
+    "id": "p_xabiani_ponce_de_leon",
+    "name": "Xabiani Ponce de León",
+    "birth_year": 1993,
+    "path": "data/people/p_xabiani_ponce_de_leon.json"
+  },
+  {
     "id": "p_xabier_agote",
     "name": "Xabier Agote",
     "birth_year": 1964,
@@ -57,6 +63,12 @@
     "id": "p_xan_aranda",
     "name": "Xan Aranda",
     "path": "data/people/p_xan_aranda.json"
+  },
+  {
+    "id": "p_xan_cejudo",
+    "name": "Xan Cejudo",
+    "birth_year": 1946,
+    "path": "data/people/p_xan_cejudo.json"
   },
   {
     "id": "p_xanae_bove",
@@ -121,6 +133,12 @@
     "name": "Xaver Schwarzenberger",
     "birth_year": 1946,
     "path": "data/people/p_xaver_schwarzenberger.json"
+  },
+  {
+    "id": "p_xaver_xylophon",
+    "name": "Xaver Xylophon",
+    "birth_year": 1984,
+    "path": "data/people/p_xaver_xylophon.json"
   },
   {
     "id": "p_xavery_zulawski",
@@ -263,6 +281,11 @@
     "id": "p_xavier_brillat",
     "name": "Xavier Brillat",
     "path": "data/people/p_xavier_brillat.json"
+  },
+  {
+    "id": "p_xavier_burgin",
+    "name": "Xavier Burgin",
+    "path": "data/people/p_xavier_burgin.json"
   },
   {
     "id": "p_xavier_clement",
@@ -471,6 +494,12 @@
     "path": "data/people/p_xavier_morinlefort.json"
   },
   {
+    "id": "p_xavier_niel",
+    "name": "Xavier Niel",
+    "birth_year": 1967,
+    "path": "data/people/p_xavier_niel.json"
+  },
+  {
     "id": "p_xavier_ortiz",
     "name": "Xavier Ortiz",
     "birth_year": 1972,
@@ -600,6 +629,12 @@
     "path": "data/people/p_xenonamandar_jegahussie_singh.json"
   },
   {
+    "id": "p_xesus_ron",
+    "name": "Xesús Ron",
+    "birth_year": 1964,
+    "path": "data/people/p_xesus_ron.json"
+  },
+  {
     "id": "p_xeth_feinberg",
     "name": "Xeth Feinberg",
     "path": "data/people/p_xeth_feinberg.json"
@@ -662,6 +697,12 @@
     "name": "Xiang Yun",
     "birth_year": 1961,
     "path": "data/people/p_xiang_yun.json"
+  },
+  {
+    "id": "p_xiang_zi",
+    "name": "Xiang Zi",
+    "birth_year": 1986,
+    "path": "data/people/p_xiang_zi.json"
   },
   {
     "id": "p_xianjian_xue",
@@ -895,6 +936,11 @@
     "id": "p_xion_lim",
     "name": "Xion Lim",
     "path": "data/people/p_xion_lim.json"
+  },
+  {
+    "id": "p_xirzat_yahup",
+    "name": "Xirzat Yahup",
+    "path": "data/people/p_xirzat_yahup.json"
   },
   {
     "id": "p_xiu_qing",
