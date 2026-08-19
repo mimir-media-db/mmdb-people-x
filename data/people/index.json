@@ -30,10 +30,27 @@
     "path": "data/people/p_xabier_elorriaga.json"
   },
   {
+    "id": "p_xabier_perurena",
+    "name": "Xabier Perurena",
+    "birth_year": 1987,
+    "path": "data/people/p_xabier_perurena.json"
+  },
+  {
     "id": "p_xabier_san_sebastian",
     "name": "Xabier San Sebastian",
     "birth_year": 1976,
     "path": "data/people/p_xabier_san_sebastian.json"
+  },
+  {
+    "id": "p_xan_aranda",
+    "name": "Xan Aranda",
+    "path": "data/people/p_xan_aranda.json"
+  },
+  {
+    "id": "p_xanae_bove",
+    "name": "Xanaë Bove",
+    "birth_year": 1970,
+    "path": "data/people/p_xanae_bove.json"
   },
   {
     "id": "p_xander_berkeley",
@@ -48,10 +65,21 @@
     "path": "data/people/p_xander_corvus.json"
   },
   {
+    "id": "p_xander_robin",
+    "name": "Xander Robin",
+    "path": "data/people/p_xander_robin.json"
+  },
+  {
     "id": "p_xander_straat",
     "name": "Xander Straat",
     "birth_year": 1964,
     "path": "data/people/p_xander_straat.json"
+  },
+  {
+    "id": "p_xander_van_vledder",
+    "name": "Xander van Vledder",
+    "birth_year": 1985,
+    "path": "data/people/p_xander_van_vledder.json"
   },
   {
     "id": "p_xantha_radley",
@@ -168,6 +196,12 @@
     "path": "data/people/p_xavier_beja.json"
   },
   {
+    "id": "p_xavier_berenguer",
+    "name": "Xavier Berenguer",
+    "birth_year": 1946,
+    "path": "data/people/p_xavier_berenguer.json"
+  },
+  {
     "id": "p_xavier_bermudez",
     "name": "Xavier Bermúdez",
     "birth_year": 1950,
@@ -218,6 +252,12 @@
     "name": "Xavier Cruzado",
     "birth_year": 1968,
     "path": "data/people/p_xavier_cruzado.json"
+  },
+  {
+    "id": "p_xavier_cugat",
+    "name": "Xavier Cugat",
+    "birth_year": 1899,
+    "path": "data/people/p_xavier_cugat.json"
   },
   {
     "id": "p_xavier_de_choudens",
@@ -373,6 +413,11 @@
     "path": "data/people/p_xavier_maly.json"
   },
   {
+    "id": "p_xavier_manrique",
+    "name": "Xavier Manrique",
+    "path": "data/people/p_xavier_manrique.json"
+  },
+  {
     "id": "p_xavier_marchand",
     "name": "Xavier Marchand",
     "birth_year": 1973,
@@ -443,6 +488,12 @@
     "path": "data/people/p_xavier_samuel.json"
   },
   {
+    "id": "p_xavier_seron",
+    "name": "Xavier Seron",
+    "birth_year": 1952,
+    "path": "data/people/p_xavier_seron.json"
+  },
+  {
     "id": "p_xavier_serrat_i_crespo",
     "name": "Xavier Serrat i Crespo",
     "birth_year": 1946,
@@ -461,6 +512,12 @@
     "path": "data/people/p_xavier_villaverde.json"
   },
   {
+    "id": "p_xavier_woods",
+    "name": "Xavier Woods",
+    "birth_year": 1986,
+    "path": "data/people/p_xavier_woods.json"
+  },
+  {
     "id": "p_xavier_zuber",
     "name": "Xavier Zuber",
     "birth_year": 1967,
@@ -471,6 +528,11 @@
     "name": "Xawery Żuławski",
     "birth_year": 1971,
     "path": "data/people/p_xawery_zuawski.json"
+  },
+  {
+    "id": "p_xb_ruiz",
+    "name": "X.B. Ruiz",
+    "path": "data/people/p_xb_ruiz.json"
   },
   {
     "id": "p_xenia_georgia_assenza",
@@ -491,10 +553,22 @@
     "path": "data/people/p_xenia_seeberg.json"
   },
   {
+    "id": "p_xenia_sigalova",
+    "name": "Xenia Sigalova",
+    "birth_year": 1980,
+    "path": "data/people/p_xenia_sigalova.json"
+  },
+  {
     "id": "p_xenia_tostado",
     "name": "Xenia Tostado",
     "birth_year": 1981,
     "path": "data/people/p_xenia_tostado.json"
+  },
+  {
+    "id": "p_xenonamandar_jegahussie_singh",
+    "name": "Xenonamandar Jegahussie Singh",
+    "birth_year": 1963,
+    "path": "data/people/p_xenonamandar_jegahussie_singh.json"
   },
   {
     "id": "p_xeth_feinberg",
@@ -532,6 +606,12 @@
     "path": "data/people/p_xian_lim.json"
   },
   {
+    "id": "p_xiana_gomezdiaz",
+    "name": "Xiana Gómez-Díaz",
+    "birth_year": 1981,
+    "path": "data/people/p_xiana_gomezdiaz.json"
+  },
+  {
     "id": "p_xiang_yang_li",
     "name": "Xiang Yang Li",
     "path": "data/people/p_xiang_yang_li.json"
@@ -541,6 +621,17 @@
     "name": "Xiang Yun",
     "birth_year": 1961,
     "path": "data/people/p_xiang_yun.json"
+  },
+  {
+    "id": "p_xianjian_xue",
+    "name": "Xianjian Xue",
+    "birth_year": 1984,
+    "path": "data/people/p_xianjian_xue.json"
+  },
+  {
+    "id": "p_xiao_feng",
+    "name": "Xiao Feng",
+    "path": "data/people/p_xiao_feng.json"
   },
   {
     "id": "p_xiao_jiang",
@@ -554,10 +645,25 @@
     "path": "data/people/p_xiao_rongsheng.json"
   },
   {
+    "id": "p_xiao_song",
+    "name": "Xiao Song",
+    "path": "data/people/p_xiao_song.json"
+  },
+  {
     "id": "p_xiao_yang",
     "name": "Xiao Yang",
     "birth_year": 1980,
     "path": "data/people/p_xiao_yang.json"
+  },
+  {
+    "id": "p_xiao_zheng",
+    "name": "Xiao Zheng",
+    "path": "data/people/p_xiao_zheng.json"
+  },
+  {
+    "id": "p_xiaobo_lapresta",
+    "name": "Xiaobo Lapresta",
+    "path": "data/people/p_xiaobo_lapresta.json"
   },
   {
     "id": "p_xiaofeng_li",
@@ -617,6 +723,12 @@
     "path": "data/people/p_xie_na.json"
   },
   {
+    "id": "p_xie_xin_hao",
+    "name": "Xie Xin Hao",
+    "birth_year": 1978,
+    "path": "data/people/p_xie_xin_hao.json"
+  },
+  {
     "id": "p_ximena_ayala",
     "name": "Ximena Ayala",
     "birth_year": 1980,
@@ -627,6 +739,12 @@
     "name": "Ximena Herrera",
     "birth_year": 1979,
     "path": "data/people/p_ximena_herrera.json"
+  },
+  {
+    "id": "p_ximena_rivas",
+    "name": "Ximena Rivas",
+    "birth_year": 1963,
+    "path": "data/people/p_ximena_rivas.json"
   },
   {
     "id": "p_ximena_romo",
@@ -657,6 +775,12 @@
     "name": "Xin Sarith Wuku",
     "birth_year": 1981,
     "path": "data/people/p_xin_sarith_wuku.json"
+  },
+  {
+    "id": "p_xin_wang",
+    "name": "Xin Wang",
+    "birth_year": 1988,
+    "path": "data/people/p_xin_wang.json"
   },
   {
     "id": "p_xin_yukun",
@@ -702,6 +826,11 @@
     "name": "Xiu Zongdi",
     "birth_year": 1939,
     "path": "data/people/p_xiu_zongdi.json"
+  },
+  {
+    "id": "p_xochi_blymyer",
+    "name": "Xochi Blymyer",
+    "path": "data/people/p_xochi_blymyer.json"
   },
   {
     "id": "p_xoel_yanez",
