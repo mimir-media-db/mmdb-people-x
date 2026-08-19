@@ -172,6 +172,12 @@
     "path": "data/people/p_xavi_doz.json"
   },
   {
+    "id": "p_xavi_font",
+    "name": "Xavi Font",
+    "birth_year": 1971,
+    "path": "data/people/p_xavi_font.json"
+  },
+  {
     "id": "p_xavi_frances_i_fernandez",
     "name": "Xavi Francés i Fernández",
     "birth_year": 1980,
@@ -326,6 +332,11 @@
     "path": "data/people/p_xavier_burgin.json"
   },
   {
+    "id": "p_xavier_cancaenglund",
+    "name": "Xavier Canca-Englund",
+    "path": "data/people/p_xavier_cancaenglund.json"
+  },
+  {
     "id": "p_xavier_clement",
     "name": "Xavier Clément",
     "birth_year": 1950,
@@ -371,6 +382,12 @@
     "name": "Xavier de Lauzanne",
     "birth_year": 1969,
     "path": "data/people/p_xavier_de_lauzanne.json"
+  },
+  {
+    "id": "p_xavier_de_moulins",
+    "name": "Xavier de Moulins",
+    "birth_year": 1971,
+    "path": "data/people/p_xavier_de_moulins.json"
   },
   {
     "id": "p_xavier_de_rosnay",
@@ -419,6 +436,12 @@
     "name": "Xavier Estévez",
     "birth_year": 1966,
     "path": "data/people/p_xavier_estevez.json"
+  },
+  {
+    "id": "p_xavier_fournier",
+    "name": "Xavier Fournier",
+    "birth_year": 1952,
+    "path": "data/people/p_xavier_fournier.json"
   },
   {
     "id": "p_xavier_gallais",
@@ -611,6 +634,11 @@
     "path": "data/people/p_xavier_robic.json"
   },
   {
+    "id": "p_xavier_rocher",
+    "name": "Xavier Rocher",
+    "path": "data/people/p_xavier_rocher.json"
+  },
+  {
     "id": "p_xavier_rombaut",
     "name": "Xavier Rombaut",
     "birth_year": 1979,
@@ -695,6 +723,11 @@
     "id": "p_xb_ruiz",
     "name": "X.B. Ruiz",
     "path": "data/people/p_xb_ruiz.json"
+  },
+  {
+    "id": "p_xelia_mendesjones",
+    "name": "Xelia Mendes-Jones",
+    "path": "data/people/p_xelia_mendesjones.json"
   },
   {
     "id": "p_xenia_georgia_assenza",
@@ -853,6 +886,12 @@
     "path": "data/people/p_xiao_yang.json"
   },
   {
+    "id": "p_xiao_zhan",
+    "name": "Xiao Zhan",
+    "birth_year": 1991,
+    "path": "data/people/p_xiao_zhan.json"
+  },
+  {
     "id": "p_xiao_zheng",
     "name": "Xiao Zheng",
     "path": "data/people/p_xiao_zheng.json"
@@ -966,6 +1005,11 @@
     "path": "data/people/p_ximena_del_solar.json"
   },
   {
+    "id": "p_ximena_ferrer_olaso",
+    "name": "Ximena Ferrer Olaso",
+    "path": "data/people/p_ximena_ferrer_olaso.json"
+  },
+  {
     "id": "p_ximena_herrera",
     "name": "Ximena Herrera",
     "birth_year": 1979,
@@ -1015,6 +1059,12 @@
     "id": "p_ximena_valdivia",
     "name": "Ximena Valdivia",
     "path": "data/people/p_ximena_valdivia.json"
+  },
+  {
+    "id": "p_ximun_fuchs",
+    "name": "Ximun Fuchs",
+    "birth_year": 1973,
+    "path": "data/people/p_ximun_fuchs.json"
   },
   {
     "id": "p_xin_baiqing",
@@ -1114,6 +1164,12 @@
     "path": "data/people/p_xinming_yang.json"
   },
   {
+    "id": "p_xinyan_chao",
+    "name": "Xin-Yan Chao",
+    "birth_year": 1958,
+    "path": "data/people/p_xinyan_chao.json"
+  },
+  {
     "id": "p_xinyi_zhang",
     "name": "Xinyi Zhang",
     "birth_year": 1981,
@@ -1157,6 +1213,12 @@
     "name": "Xochitl Gomez",
     "birth_year": 2006,
     "path": "data/people/p_xochitl_gomez.json"
+  },
+  {
+    "id": "p_xoel_fernandez",
+    "name": "Xoel Fernández",
+    "birth_year": 1979,
+    "path": "data/people/p_xoel_fernandez.json"
   },
   {
     "id": "p_xoel_yanez",
@@ -1340,10 +1402,20 @@
     "path": "data/people/p_xuan_mai.json"
   },
   {
+    "id": "p_xuan_ngo_thang",
+    "name": "Xuan Ngo Thang",
+    "path": "data/people/p_xuan_ngo_thang.json"
+  },
+  {
     "id": "p_xuan_thuc",
     "name": "Xuân Thức",
     "birth_year": 1932,
     "path": "data/people/p_xuan_thuc.json"
+  },
+  {
+    "id": "p_xuan_tiem_to",
+    "name": "Xuan Tiem To",
+    "path": "data/people/p_xuan_tiem_to.json"
   },
   {
     "id": "p_xuan_van_nguyen",
