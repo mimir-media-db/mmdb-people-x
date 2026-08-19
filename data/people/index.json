@@ -59,6 +59,12 @@
     "path": "data/people/p_xavi_mira.json"
   },
   {
+    "id": "p_xavi_puebla",
+    "name": "Xavi Puebla",
+    "birth_year": 1968,
+    "path": "data/people/p_xavi_puebla.json"
+  },
+  {
     "id": "p_xavi_sala",
     "name": "Xavi Sala",
     "birth_year": 1970,
@@ -86,6 +92,12 @@
     "name": "Xavier Bermúdez",
     "birth_year": 1950,
     "path": "data/people/p_xavier_bermudez.json"
+  },
+  {
+    "id": "p_xavier_boulanger",
+    "name": "Xavier Boulanger",
+    "birth_year": 1962,
+    "path": "data/people/p_xavier_boulanger.json"
   },
   {
     "id": "p_xavier_briere",
@@ -139,6 +151,12 @@
     "name": "Xavier Durringer",
     "birth_year": 1963,
     "path": "data/people/p_xavier_durringer.json"
+  },
+  {
+    "id": "p_xavier_gallais",
+    "name": "Xavier Gallais",
+    "birth_year": 1976,
+    "path": "data/people/p_xavier_gallais.json"
   },
   {
     "id": "p_xavier_garbajosa",
@@ -223,10 +241,22 @@
     "path": "data/people/p_xavier_morinlefort.json"
   },
   {
+    "id": "p_xavier_ortiz",
+    "name": "Xavier Ortiz",
+    "birth_year": 1972,
+    "path": "data/people/p_xavier_ortiz.json"
+  },
+  {
     "id": "p_xavier_palud",
     "name": "Xavier Palud",
     "birth_year": 1970,
     "path": "data/people/p_xavier_palud.json"
+  },
+  {
+    "id": "p_xavier_robic",
+    "name": "Xavier Robic",
+    "birth_year": 1979,
+    "path": "data/people/p_xavier_robic.json"
   },
   {
     "id": "p_xavier_samuel",
@@ -385,6 +415,12 @@
     "path": "data/people/p_xu_geng.json"
   },
   {
+    "id": "p_xu_jiao",
+    "name": "Xu Jiao",
+    "birth_year": 1997,
+    "path": "data/people/p_xu_jiao.json"
+  },
+  {
     "id": "p_xu_jinglei",
     "name": "Xu Jinglei",
     "birth_year": 1974,
@@ -413,6 +449,11 @@
     "name": "Xu Zheng",
     "birth_year": 1972,
     "path": "data/people/p_xu_zheng.json"
+  },
+  {
+    "id": "p_xuan_jiang",
+    "name": "Xuan Jiang",
+    "path": "data/people/p_xuan_jiang.json"
   },
   {
     "id": "p_xuan_lan",
