@@ -24,16 +24,31 @@
     "path": "data/people/p_xaver_schwarzenberger.json"
   },
   {
+    "id": "p_xavery_zulawski",
+    "name": "Xavery Zulawski",
+    "path": "data/people/p_xavery_zulawski.json"
+  },
+  {
     "id": "p_xavier_beauvois",
     "name": "Xavier Beauvois",
     "birth_year": 1967,
     "path": "data/people/p_xavier_beauvois.json"
   },
   {
+    "id": "p_xavier_beja",
+    "name": "Xavier Béja",
+    "path": "data/people/p_xavier_beja.json"
+  },
+  {
     "id": "p_xavier_briere",
     "name": "Xavier Brière",
     "birth_year": 1952,
     "path": "data/people/p_xavier_briere.json"
+  },
+  {
+    "id": "p_xavier_brillat",
+    "name": "Xavier Brillat",
+    "path": "data/people/p_xavier_brillat.json"
   },
   {
     "id": "p_xavier_de_guillebon",
@@ -66,6 +81,12 @@
     "path": "data/people/p_xavier_koller.json"
   },
   {
+    "id": "p_xavier_letourneur",
+    "name": "Xavier Letourneur",
+    "birth_year": 1952,
+    "path": "data/people/p_xavier_letourneur.json"
+  },
+  {
     "id": "p_xavier_maly",
     "name": "Xavier Maly",
     "birth_year": 1957,
@@ -84,6 +105,30 @@
     "path": "data/people/p_xavier_morinlefort.json"
   },
   {
+    "id": "p_xavier_serrat_i_crespo",
+    "name": "Xavier Serrat i Crespo",
+    "birth_year": 1946,
+    "path": "data/people/p_xavier_serrat_i_crespo.json"
+  },
+  {
+    "id": "p_xavier_villaverde",
+    "name": "Xavier Villaverde",
+    "birth_year": 1957,
+    "path": "data/people/p_xavier_villaverde.json"
+  },
+  {
+    "id": "p_xenia_seeberg",
+    "name": "Xenia Seeberg",
+    "birth_year": 1967,
+    "path": "data/people/p_xenia_seeberg.json"
+  },
+  {
+    "id": "p_xhilda_lapardhaja",
+    "name": "Xhilda Lapardhaja",
+    "birth_year": 1982,
+    "path": "data/people/p_xhilda_lapardhaja.json"
+  },
+  {
     "id": "p_xi_meijuan",
     "name": "Xi Meijuan",
     "birth_year": 1955,
@@ -94,6 +139,11 @@
     "name": "Xia Yu",
     "birth_year": 1976,
     "path": "data/people/p_xia_yu.json"
+  },
+  {
+    "id": "p_xiang_yang_li",
+    "name": "Xiang Yang Li",
+    "path": "data/people/p_xiang_yang_li.json"
   },
   {
     "id": "p_xiang_yun",
@@ -123,6 +173,12 @@
     "name": "Ximena Ayala",
     "birth_year": 1980,
     "path": "data/people/p_ximena_ayala.json"
+  },
+  {
+    "id": "p_xing_xing_cheng",
+    "name": "Xing Xing Cheng",
+    "birth_year": 1952,
+    "path": "data/people/p_xing_xing_cheng.json"
   },
   {
     "id": "p_xion_lim",
@@ -165,6 +221,12 @@
     "path": "data/people/p_xu_yajun.json"
   },
   {
+    "id": "p_xuan_lan",
+    "name": "Xuân Lan",
+    "birth_year": 1978,
+    "path": "data/people/p_xuan_lan.json"
+  },
+  {
     "id": "p_xuan_mai",
     "name": "Xuan Mai",
     "path": "data/people/p_xuan_mai.json"
@@ -174,6 +236,11 @@
     "name": "Xuân Thức",
     "birth_year": 1932,
     "path": "data/people/p_xuan_thuc.json"
+  },
+  {
+    "id": "p_xuan_van_nguyen",
+    "name": "Xuan Van Nguyen",
+    "path": "data/people/p_xuan_van_nguyen.json"
   },
   {
     "id": "p_xuxa",
