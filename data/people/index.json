@@ -1,1 +1,73 @@
-[]
+[
+  {
+    "id": "p_xander_berkeley",
+    "name": "Xander Berkeley",
+    "birth_year": 1955,
+    "path": "data/people/p_xander_berkeley.json"
+  },
+  {
+    "id": "p_xaver_hutter",
+    "name": "Xaver Hutter",
+    "birth_year": 1976,
+    "path": "data/people/p_xaver_hutter.json"
+  },
+  {
+    "id": "p_xavier_beauvois",
+    "name": "Xavier Beauvois",
+    "birth_year": 1967,
+    "path": "data/people/p_xavier_beauvois.json"
+  },
+  {
+    "id": "p_xavier_koller",
+    "name": "Xavier Koller",
+    "birth_year": 1944,
+    "path": "data/people/p_xavier_koller.json"
+  },
+  {
+    "id": "p_xavier_maly",
+    "name": "Xavier Maly",
+    "birth_year": 1957,
+    "path": "data/people/p_xavier_maly.json"
+  },
+  {
+    "id": "p_xavier_marchand",
+    "name": "Xavier Marchand",
+    "birth_year": 1973,
+    "path": "data/people/p_xavier_marchand.json"
+  },
+  {
+    "id": "p_xia_yu",
+    "name": "Xia Yu",
+    "birth_year": 1976,
+    "path": "data/people/p_xia_yu.json"
+  },
+  {
+    "id": "p_xie_fei",
+    "name": "Xie Fei",
+    "birth_year": 1942,
+    "path": "data/people/p_xie_fei.json"
+  },
+  {
+    "id": "p_xie_lan",
+    "name": "Xie Lan",
+    "birth_year": 1971,
+    "path": "data/people/p_xie_lan.json"
+  },
+  {
+    "id": "p_xion_lim",
+    "name": "Xion Lim",
+    "path": "data/people/p_xion_lim.json"
+  },
+  {
+    "id": "p_xu_fan",
+    "name": "Xu Fan",
+    "birth_year": 1967,
+    "path": "data/people/p_xu_fan.json"
+  },
+  {
+    "id": "p_xuxa",
+    "name": "Xuxa",
+    "birth_year": 1963,
+    "path": "data/people/p_xuxa.json"
+  }
+]
