@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_xander_straat",
+  "name": "Xander Straat",
+  "external_ids": {
+    "wikidata": "Q8042910",
+    "imdb": "nm0833011"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}
