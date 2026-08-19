@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_xi_jinping",
+  "name": "Xi Jinping",
+  "external_ids": {
+    "wikidata": "Q15031",
+    "imdb": "nm7010941"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}
