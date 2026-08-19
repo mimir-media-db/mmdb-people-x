@@ -18,6 +18,30 @@
     "path": "data/people/p_xavier_beauvois.json"
   },
   {
+    "id": "p_xavier_briere",
+    "name": "Xavier Brière",
+    "birth_year": 1952,
+    "path": "data/people/p_xavier_briere.json"
+  },
+  {
+    "id": "p_xavier_de_guillebon",
+    "name": "Xavier de Guillebon",
+    "birth_year": 1963,
+    "path": "data/people/p_xavier_de_guillebon.json"
+  },
+  {
+    "id": "p_xavier_dolan",
+    "name": "Xavier Dolan",
+    "birth_year": 1989,
+    "path": "data/people/p_xavier_dolan.json"
+  },
+  {
+    "id": "p_xavier_durringer",
+    "name": "Xavier Durringer",
+    "birth_year": 1963,
+    "path": "data/people/p_xavier_durringer.json"
+  },
+  {
     "id": "p_xavier_koller",
     "name": "Xavier Koller",
     "birth_year": 1944,
@@ -34,6 +58,12 @@
     "name": "Xavier Marchand",
     "birth_year": 1973,
     "path": "data/people/p_xavier_marchand.json"
+  },
+  {
+    "id": "p_xi_meijuan",
+    "name": "Xi Meijuan",
+    "birth_year": 1955,
+    "path": "data/people/p_xi_meijuan.json"
   },
   {
     "id": "p_xia_yu",
@@ -54,6 +84,12 @@
     "path": "data/people/p_xie_lan.json"
   },
   {
+    "id": "p_ximena_ayala",
+    "name": "Ximena Ayala",
+    "birth_year": 1980,
+    "path": "data/people/p_ximena_ayala.json"
+  },
+  {
     "id": "p_xion_lim",
     "name": "Xion Lim",
     "path": "data/people/p_xion_lim.json"
@@ -65,9 +101,26 @@
     "path": "data/people/p_xu_fan.json"
   },
   {
+    "id": "p_xu_min",
+    "name": "Xu Min",
+    "birth_year": 1947,
+    "path": "data/people/p_xu_min.json"
+  },
+  {
+    "id": "p_xuan_mai",
+    "name": "Xuan Mai",
+    "path": "data/people/p_xuan_mai.json"
+  },
+  {
     "id": "p_xuxa",
     "name": "Xuxa",
     "birth_year": 1963,
     "path": "data/people/p_xuxa.json"
+  },
+  {
+    "id": "p_xzibit",
+    "name": "Xzibit",
+    "birth_year": 1974,
+    "path": "data/people/p_xzibit.json"
   }
 ]
