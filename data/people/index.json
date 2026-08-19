@@ -6,6 +6,12 @@
     "path": "data/people/p_xabier_berzosa.json"
   },
   {
+    "id": "p_xabier_deive",
+    "name": "Xabier Deive",
+    "birth_year": 1970,
+    "path": "data/people/p_xabier_deive.json"
+  },
+  {
     "id": "p_xabier_elorriaga",
     "name": "Xabier Elorriaga",
     "birth_year": 1944,
@@ -45,6 +51,12 @@
     "name": "Xavi Berraondo",
     "birth_year": 1957,
     "path": "data/people/p_xavi_berraondo.json"
+  },
+  {
+    "id": "p_xavi_mira",
+    "name": "Xavi Mira",
+    "birth_year": 1968,
+    "path": "data/people/p_xavi_mira.json"
   },
   {
     "id": "p_xavi_sala",
@@ -171,10 +183,20 @@
     "path": "data/people/p_xavier_laurent.json"
   },
   {
+    "id": "p_xavier_lee",
+    "name": "Xavier Lee",
+    "path": "data/people/p_xavier_lee.json"
+  },
+  {
     "id": "p_xavier_letourneur",
     "name": "Xavier Letourneur",
     "birth_year": 1952,
     "path": "data/people/p_xavier_letourneur.json"
+  },
+  {
+    "id": "p_xavier_malo",
+    "name": "Xavier Malo",
+    "path": "data/people/p_xavier_malo.json"
   },
   {
     "id": "p_xavier_maly",
@@ -219,6 +241,12 @@
     "path": "data/people/p_xavier_serrat_i_crespo.json"
   },
   {
+    "id": "p_xavier_thiam",
+    "name": "Xavier Thiam",
+    "birth_year": 1965,
+    "path": "data/people/p_xavier_thiam.json"
+  },
+  {
     "id": "p_xavier_villaverde",
     "name": "Xavier Villaverde",
     "birth_year": 1957,
@@ -229,6 +257,12 @@
     "name": "Xenia Seeberg",
     "birth_year": 1967,
     "path": "data/people/p_xenia_seeberg.json"
+  },
+  {
+    "id": "p_xenia_tostado",
+    "name": "Xenia Tostado",
+    "birth_year": 1981,
+    "path": "data/people/p_xenia_tostado.json"
   },
   {
     "id": "p_xeth_feinberg",
@@ -363,10 +397,22 @@
     "path": "data/people/p_xu_min.json"
   },
   {
+    "id": "p_xu_qing",
+    "name": "Xu Qing",
+    "birth_year": 1969,
+    "path": "data/people/p_xu_qing.json"
+  },
+  {
     "id": "p_xu_yajun",
     "name": "Xu Yajun",
     "birth_year": 1964,
     "path": "data/people/p_xu_yajun.json"
+  },
+  {
+    "id": "p_xu_zheng",
+    "name": "Xu Zheng",
+    "birth_year": 1972,
+    "path": "data/people/p_xu_zheng.json"
   },
   {
     "id": "p_xuan_lan",
