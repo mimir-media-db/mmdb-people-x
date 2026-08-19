@@ -181,6 +181,12 @@
     "path": "data/people/p_xavi_puebla.json"
   },
   {
+    "id": "p_xavi_saez",
+    "name": "Xavi Sáez",
+    "birth_year": 1974,
+    "path": "data/people/p_xavi_saez.json"
+  },
+  {
     "id": "p_xavi_sala",
     "name": "Xavi Sala",
     "birth_year": 1970,
@@ -435,6 +441,12 @@
     "path": "data/people/p_xavier_lafitte.json"
   },
   {
+    "id": "p_xavier_lagarde",
+    "name": "Xavier Lagarde",
+    "birth_year": 1967,
+    "path": "data/people/p_xavier_lagarde.json"
+  },
+  {
     "id": "p_xavier_laurent",
     "name": "Xavier Laurent",
     "birth_year": 1977,
@@ -464,6 +476,12 @@
     "path": "data/people/p_xavier_letourneur.json"
   },
   {
+    "id": "p_xavier_lin",
+    "name": "Xavier Lin",
+    "birth_year": 1995,
+    "path": "data/people/p_xavier_lin.json"
+  },
+  {
     "id": "p_xavier_malo",
     "name": "Xavier Malo",
     "path": "data/people/p_xavier_malo.json"
@@ -484,6 +502,11 @@
     "name": "Xavier Marchand",
     "birth_year": 1973,
     "path": "data/people/p_xavier_marchand.json"
+  },
+  {
+    "id": "p_xavier_martin",
+    "name": "Xavier Martín",
+    "path": "data/people/p_xavier_martin.json"
   },
   {
     "id": "p_xavier_mathieu",
@@ -808,6 +831,12 @@
     "path": "data/people/p_xiaoshenyang.json"
   },
   {
+    "id": "p_xiaoying_bai",
+    "name": "Xiao-Ying Bai",
+    "birth_year": 2007,
+    "path": "data/people/p_xiaoying_bai.json"
+  },
+  {
     "id": "p_xiaoyu_qin",
     "name": "Xiaoyu Qin",
     "birth_year": 1973,
@@ -859,6 +888,11 @@
     "name": "Ximena Herrera",
     "birth_year": 1979,
     "path": "data/people/p_ximena_herrera.json"
+  },
+  {
+    "id": "p_ximena_medina_vasquez",
+    "name": "Ximena Medina Vásquez",
+    "path": "data/people/p_ximena_medina_vasquez.json"
   },
   {
     "id": "p_ximena_palomino",
@@ -1020,6 +1054,12 @@
     "name": "Xoque Carbajal",
     "birth_year": 1963,
     "path": "data/people/p_xoque_carbajal.json"
+  },
+  {
+    "id": "p_xose_antonio_tourinan",
+    "name": "Xosé Antonio Touriñán",
+    "birth_year": 1980,
+    "path": "data/people/p_xose_antonio_tourinan.json"
   },
   {
     "id": "p_xose_barato",
