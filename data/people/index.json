@@ -398,6 +398,12 @@
     "path": "data/people/p_xawery_zuawski.json"
   },
   {
+    "id": "p_xenia_georgia_assenza",
+    "name": "Xenia Georgia Assenza",
+    "birth_year": 1990,
+    "path": "data/people/p_xenia_georgia_assenza.json"
+  },
+  {
     "id": "p_xenia_molnarova",
     "name": "Xénia Molnárová",
     "birth_year": 1976,
@@ -479,6 +485,11 @@
     "path": "data/people/p_xiao_yang.json"
   },
   {
+    "id": "p_xiaoli_shao",
+    "name": "Xiaoli Shao",
+    "path": "data/people/p_xiaoli_shao.json"
+  },
+  {
     "id": "p_xiaoling_zhu",
     "name": "Xiaoling Zhu",
     "path": "data/people/p_xiaoling_zhu.json"
@@ -525,6 +536,12 @@
     "path": "data/people/p_ximena_ayala.json"
   },
   {
+    "id": "p_ximena_herrera",
+    "name": "Ximena Herrera",
+    "birth_year": 1979,
+    "path": "data/people/p_ximena_herrera.json"
+  },
+  {
     "id": "p_ximena_rubio",
     "name": "Ximena Rubio",
     "birth_year": 1978,
@@ -541,6 +558,11 @@
     "name": "Xin Sarith Wuku",
     "birth_year": 1981,
     "path": "data/people/p_xin_sarith_wuku.json"
+  },
+  {
+    "id": "p_xin_zhang",
+    "name": "Xin Zhang",
+    "path": "data/people/p_xin_zhang.json"
   },
   {
     "id": "p_xing_xing_cheng",
@@ -643,6 +665,12 @@
     "path": "data/people/p_xu_jinglei.json"
   },
   {
+    "id": "p_xu_kerr",
+    "name": "Xu Kerr",
+    "birth_year": 1967,
+    "path": "data/people/p_xu_kerr.json"
+  },
+  {
     "id": "p_xu_min",
     "name": "Xu Min",
     "birth_year": 1947,
@@ -653,6 +681,11 @@
     "name": "Xu Qing",
     "birth_year": 1969,
     "path": "data/people/p_xu_qing.json"
+  },
+  {
+    "id": "p_xu_ruotao",
+    "name": "Xu Ruotao",
+    "path": "data/people/p_xu_ruotao.json"
   },
   {
     "id": "p_xu_xiaoxi",
