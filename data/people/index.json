@@ -1,5 +1,11 @@
 [
   {
+    "id": "p_xabi_molia",
+    "name": "Xabi Molia",
+    "birth_year": 1977,
+    "path": "data/people/p_xabi_molia.json"
+  },
+  {
     "id": "p_xabier_berzosa",
     "name": "Xabier Berzosa",
     "birth_year": 1976,
@@ -51,6 +57,12 @@
     "name": "Xavi Berraondo",
     "birth_year": 1957,
     "path": "data/people/p_xavi_berraondo.json"
+  },
+  {
+    "id": "p_xavi_gimenez",
+    "name": "Xavi Giménez",
+    "birth_year": 1969,
+    "path": "data/people/p_xavi_gimenez.json"
   },
   {
     "id": "p_xavi_mira",
@@ -135,6 +147,12 @@
     "path": "data/people/p_xavier_de_guillebon.json"
   },
   {
+    "id": "p_xavier_de_lauzanne",
+    "name": "Xavier de Lauzanne",
+    "birth_year": 1969,
+    "path": "data/people/p_xavier_de_lauzanne.json"
+  },
+  {
     "id": "p_xavier_deluc",
     "name": "Xavier Deluc",
     "birth_year": 1958,
@@ -151,6 +169,12 @@
     "name": "Xavier Durringer",
     "birth_year": 1963,
     "path": "data/people/p_xavier_durringer.json"
+  },
+  {
+    "id": "p_xavier_estevez",
+    "name": "Xavier Estévez",
+    "birth_year": 1966,
+    "path": "data/people/p_xavier_estevez.json"
   },
   {
     "id": "p_xavier_gallais",
@@ -259,6 +283,17 @@
     "path": "data/people/p_xavier_robic.json"
   },
   {
+    "id": "p_xavier_ruiz",
+    "name": "Xavier Ruiz",
+    "birth_year": 1970,
+    "path": "data/people/p_xavier_ruiz.json"
+  },
+  {
+    "id": "p_xavier_s_puslowski",
+    "name": "Xavier S. Puslowski",
+    "path": "data/people/p_xavier_s_puslowski.json"
+  },
+  {
     "id": "p_xavier_samuel",
     "name": "Xavier Samuel",
     "birth_year": 1983,
@@ -283,6 +318,12 @@
     "path": "data/people/p_xavier_villaverde.json"
   },
   {
+    "id": "p_xawery_zuawski",
+    "name": "Xawery Żuławski",
+    "birth_year": 1971,
+    "path": "data/people/p_xawery_zuawski.json"
+  },
+  {
     "id": "p_xenia_seeberg",
     "name": "Xenia Seeberg",
     "birth_year": 1967,
@@ -298,6 +339,12 @@
     "id": "p_xeth_feinberg",
     "name": "Xeth Feinberg",
     "path": "data/people/p_xeth_feinberg.json"
+  },
+  {
+    "id": "p_xhevdet_ferri",
+    "name": "Xhevdet Ferri",
+    "birth_year": 1959,
+    "path": "data/people/p_xhevdet_ferri.json"
   },
   {
     "id": "p_xhilda_lapardhaja",
@@ -346,6 +393,12 @@
     "path": "data/people/p_xiaolu_guo.json"
   },
   {
+    "id": "p_xiaoshenyang",
+    "name": "Xiaoshenyang",
+    "birth_year": 1981,
+    "path": "data/people/p_xiaoshenyang.json"
+  },
+  {
     "id": "p_xie_fei",
     "name": "Xie Fei",
     "birth_year": 1942,
@@ -392,6 +445,12 @@
     "path": "data/people/p_xion_lim.json"
   },
   {
+    "id": "p_xiu_zongdi",
+    "name": "Xiu Zongdi",
+    "birth_year": 1939,
+    "path": "data/people/p_xiu_zongdi.json"
+  },
+  {
     "id": "p_xose_barato",
     "name": "Xosé Barato",
     "birth_year": 1979,
@@ -404,6 +463,12 @@
     "path": "data/people/p_xose_manuel_olveira.json"
   },
   {
+    "id": "p_xosha_roquemore",
+    "name": "Xosha Roquemore",
+    "birth_year": 1983,
+    "path": "data/people/p_xosha_roquemore.json"
+  },
+  {
     "id": "p_xu_fan",
     "name": "Xu Fan",
     "birth_year": 1967,
@@ -413,6 +478,12 @@
     "id": "p_xu_geng",
     "name": "Xu Geng",
     "path": "data/people/p_xu_geng.json"
+  },
+  {
+    "id": "p_xu_huanshan",
+    "name": "Xu Huanshan",
+    "birth_year": 1937,
+    "path": "data/people/p_xu_huanshan.json"
   },
   {
     "id": "p_xu_jiao",
@@ -437,6 +508,12 @@
     "name": "Xu Qing",
     "birth_year": 1969,
     "path": "data/people/p_xu_qing.json"
+  },
+  {
+    "id": "p_xu_xiaoxi",
+    "name": "Xu Xiaoxi",
+    "birth_year": 1981,
+    "path": "data/people/p_xu_xiaoxi.json"
   },
   {
     "id": "p_xu_yajun",
