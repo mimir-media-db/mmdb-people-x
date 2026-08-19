@@ -6,6 +6,12 @@
     "path": "data/people/p_xabi_molia.json"
   },
   {
+    "id": "p_xabier_agote",
+    "name": "Xabier Agote",
+    "birth_year": 1964,
+    "path": "data/people/p_xabier_agote.json"
+  },
+  {
     "id": "p_xabier_albistur_marin",
     "name": "Xabier Albistur Marín",
     "birth_year": 1944,
@@ -606,6 +612,12 @@
     "path": "data/people/p_xian_lim.json"
   },
   {
+    "id": "p_xiana_arias",
+    "name": "Xiana Arias",
+    "birth_year": 1983,
+    "path": "data/people/p_xiana_arias.json"
+  },
+  {
     "id": "p_xiana_gomezdiaz",
     "name": "Xiana Gómez-Díaz",
     "birth_year": 1981,
@@ -664,6 +676,11 @@
     "id": "p_xiaobo_lapresta",
     "name": "Xiaobo Lapresta",
     "path": "data/people/p_xiaobo_lapresta.json"
+  },
+  {
+    "id": "p_xiaodan_he",
+    "name": "Xiaodan He",
+    "path": "data/people/p_xiaodan_he.json"
   },
   {
     "id": "p_xiaofeng_li",
@@ -735,6 +752,12 @@
     "path": "data/people/p_ximena_ayala.json"
   },
   {
+    "id": "p_ximena_del_solar",
+    "name": "Ximena del Solar",
+    "birth_year": 1980,
+    "path": "data/people/p_ximena_del_solar.json"
+  },
+  {
     "id": "p_ximena_herrera",
     "name": "Ximena Herrera",
     "birth_year": 1979,
@@ -794,6 +817,12 @@
     "path": "data/people/p_xin_zhang.json"
   },
   {
+    "id": "p_xina_sui",
+    "name": "Xina Sui",
+    "birth_year": 1991,
+    "path": "data/people/p_xina_sui.json"
+  },
+  {
     "id": "p_xing_xing_cheng",
     "name": "Xing Xing Cheng",
     "birth_year": 1952,
@@ -822,6 +851,12 @@
     "path": "data/people/p_xion_lim.json"
   },
   {
+    "id": "p_xiu_qing",
+    "name": "Xiu Qing",
+    "birth_year": 1974,
+    "path": "data/people/p_xiu_qing.json"
+  },
+  {
     "id": "p_xiu_zongdi",
     "name": "Xiu Zongdi",
     "birth_year": 1939,
@@ -837,6 +872,12 @@
     "name": "Xoel Yáñez",
     "birth_year": 1987,
     "path": "data/people/p_xoel_yanez.json"
+  },
+  {
+    "id": "p_xolo_mariduena",
+    "name": "Xolo Maridueña",
+    "birth_year": 2001,
+    "path": "data/people/p_xolo_mariduena.json"
   },
   {
     "id": "p_xoque_carbajal",
@@ -921,6 +962,12 @@
     "path": "data/people/p_xu_kerr.json"
   },
   {
+    "id": "p_xu_lu",
+    "name": "Xu Lu",
+    "birth_year": 1994,
+    "path": "data/people/p_xu_lu.json"
+  },
+  {
     "id": "p_xu_min",
     "name": "Xu Min",
     "birth_year": 1947,
@@ -987,6 +1034,11 @@
     "id": "p_xuan_van_nguyen",
     "name": "Xuan Van Nguyen",
     "path": "data/people/p_xuan_van_nguyen.json"
+  },
+  {
+    "id": "p_xuan_zhao",
+    "name": "Xuan Zhao",
+    "path": "data/people/p_xuan_zhao.json"
   },
   {
     "id": "p_xue_xiaolu",
