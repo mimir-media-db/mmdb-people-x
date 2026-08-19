@@ -30,6 +30,12 @@
     "path": "data/people/p_xander_berkeley.json"
   },
   {
+    "id": "p_xander_corvus",
+    "name": "Xander Corvus",
+    "birth_year": 1988,
+    "path": "data/people/p_xander_corvus.json"
+  },
+  {
     "id": "p_xander_straat",
     "name": "Xander Straat",
     "birth_year": 1964,
@@ -88,6 +94,11 @@
     "path": "data/people/p_xavi_sala.json"
   },
   {
+    "id": "p_xavier_amatller",
+    "name": "Xavier Amatller",
+    "path": "data/people/p_xavier_amatller.json"
+  },
+  {
     "id": "p_xavier_atance",
     "name": "Xavier Atance",
     "birth_year": 1959,
@@ -140,6 +151,12 @@
     "path": "data/people/p_xavier_couture.json"
   },
   {
+    "id": "p_xavier_cruzado",
+    "name": "Xavier Cruzado",
+    "birth_year": 1968,
+    "path": "data/people/p_xavier_cruzado.json"
+  },
+  {
     "id": "p_xavier_de_choudens",
     "name": "Xavier de Choudens",
     "birth_year": 1973,
@@ -156,6 +173,12 @@
     "name": "Xavier de Lauzanne",
     "birth_year": 1969,
     "path": "data/people/p_xavier_de_lauzanne.json"
+  },
+  {
+    "id": "p_xavier_deltell",
+    "name": "Xavier Deltell",
+    "birth_year": 1958,
+    "path": "data/people/p_xavier_deltell.json"
   },
   {
     "id": "p_xavier_deluc",
@@ -264,6 +287,12 @@
     "path": "data/people/p_xavier_marchand.json"
   },
   {
+    "id": "p_xavier_mathieu",
+    "name": "Xavier Mathieu",
+    "birth_year": 1965,
+    "path": "data/people/p_xavier_mathieu.json"
+  },
+  {
     "id": "p_xavier_montanya",
     "name": "Xavier Montanyà",
     "birth_year": 1960,
@@ -286,6 +315,12 @@
     "name": "Xavier Palud",
     "birth_year": 1970,
     "path": "data/people/p_xavier_palud.json"
+  },
+  {
+    "id": "p_xavier_pons",
+    "name": "Xavier Pons",
+    "birth_year": 1947,
+    "path": "data/people/p_xavier_pons.json"
   },
   {
     "id": "p_xavier_robic",
@@ -329,10 +364,22 @@
     "path": "data/people/p_xavier_villaverde.json"
   },
   {
+    "id": "p_xavier_zuber",
+    "name": "Xavier Zuber",
+    "birth_year": 1967,
+    "path": "data/people/p_xavier_zuber.json"
+  },
+  {
     "id": "p_xawery_zuawski",
     "name": "Xawery Żuławski",
     "birth_year": 1971,
     "path": "data/people/p_xawery_zuawski.json"
+  },
+  {
+    "id": "p_xenia_molnarova",
+    "name": "Xénia Molnárová",
+    "birth_year": 1976,
+    "path": "data/people/p_xenia_molnarova.json"
   },
   {
     "id": "p_xenia_seeberg",
@@ -450,6 +497,12 @@
     "path": "data/people/p_xin_lee.json"
   },
   {
+    "id": "p_xin_sarith_wuku",
+    "name": "Xin Sarith Wuku",
+    "birth_year": 1981,
+    "path": "data/people/p_xin_sarith_wuku.json"
+  },
+  {
     "id": "p_xing_xing_cheng",
     "name": "Xing Xing Cheng",
     "birth_year": 1952,
@@ -460,6 +513,12 @@
     "name": "Xing Yu",
     "birth_year": 1978,
     "path": "data/people/p_xing_yu.json"
+  },
+  {
+    "id": "p_xinyi_zhang",
+    "name": "Xinyi Zhang",
+    "birth_year": 1981,
+    "path": "data/people/p_xinyi_zhang.json"
   },
   {
     "id": "p_xion_lim",
@@ -500,6 +559,12 @@
     "id": "p_xu_geng",
     "name": "Xu Geng",
     "path": "data/people/p_xu_geng.json"
+  },
+  {
+    "id": "p_xu_haofeng",
+    "name": "Xu Haofeng",
+    "birth_year": 1972,
+    "path": "data/people/p_xu_haofeng.json"
   },
   {
     "id": "p_xu_huanshan",
