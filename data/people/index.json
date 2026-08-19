@@ -172,6 +172,12 @@
     "path": "data/people/p_xavi_doz.json"
   },
   {
+    "id": "p_xavi_frances_i_fernandez",
+    "name": "Xavi Francés i Fernández",
+    "birth_year": 1980,
+    "path": "data/people/p_xavi_frances_i_fernandez.json"
+  },
+  {
     "id": "p_xavi_gimenez",
     "name": "Xavi Giménez",
     "birth_year": 1969,
@@ -240,6 +246,11 @@
     "name": "Xavier Atkins",
     "birth_year": 1999,
     "path": "data/people/p_xavier_atkins.json"
+  },
+  {
+    "id": "p_xavier_aubert",
+    "name": "Xavier Aubert",
+    "path": "data/people/p_xavier_aubert.json"
   },
   {
     "id": "p_xavier_baig",
@@ -462,6 +473,12 @@
     "path": "data/people/p_xavier_koller.json"
   },
   {
+    "id": "p_xavier_lacaille",
+    "name": "Xavier Lacaille",
+    "birth_year": 1988,
+    "path": "data/people/p_xavier_lacaille.json"
+  },
+  {
     "id": "p_xavier_lafitte",
     "name": "Xavier Lafitte",
     "birth_year": 1974,
@@ -611,6 +628,11 @@
     "path": "data/people/p_xavier_samuel.json"
   },
   {
+    "id": "p_xavier_sanjuan",
+    "name": "Xavier Sanjuan",
+    "path": "data/people/p_xavier_sanjuan.json"
+  },
+  {
     "id": "p_xavier_seron",
     "name": "Xavier Seron",
     "birth_year": 1952,
@@ -627,6 +649,12 @@
     "name": "Xavier Thiam",
     "birth_year": 1965,
     "path": "data/people/p_xavier_thiam.json"
+  },
+  {
+    "id": "p_xavier_torres_lliteras",
+    "name": "Xavier Torres Lliteras",
+    "birth_year": 1966,
+    "path": "data/people/p_xavier_torres_lliteras.json"
   },
   {
     "id": "p_xavier_villaverde",
@@ -884,6 +912,12 @@
     "id": "p_xie_gang",
     "name": "Xie Gang",
     "path": "data/people/p_xie_gang.json"
+  },
+  {
+    "id": "p_xie_junwei",
+    "name": "Xie Junwei",
+    "birth_year": 1982,
+    "path": "data/people/p_xie_junwei.json"
   },
   {
     "id": "p_xie_lan",
