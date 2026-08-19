@@ -324,6 +324,11 @@
     "path": "data/people/p_xavier_de_guillebon.json"
   },
   {
+    "id": "p_xavier_de_guzman",
+    "name": "Xavier de Guzman",
+    "path": "data/people/p_xavier_de_guzman.json"
+  },
+  {
     "id": "p_xavier_de_lauzanne",
     "name": "Xavier de Lauzanne",
     "birth_year": 1969,
@@ -394,6 +399,11 @@
     "name": "Xavier Gens",
     "birth_year": 1975,
     "path": "data/people/p_xavier_gens.json"
+  },
+  {
+    "id": "p_xavier_giacometti",
+    "name": "Xavier Giacometti",
+    "path": "data/people/p_xavier_giacometti.json"
   },
   {
     "id": "p_xavier_giannoli",
@@ -732,6 +742,12 @@
     "path": "data/people/p_xiao_song.json"
   },
   {
+    "id": "p_xiao_sun",
+    "name": "Xiao Sun",
+    "birth_year": 1989,
+    "path": "data/people/p_xiao_sun.json"
+  },
+  {
     "id": "p_xiao_yang",
     "name": "Xiao Yang",
     "birth_year": 1980,
@@ -746,6 +762,11 @@
     "id": "p_xiaobo_lapresta",
     "name": "Xiaobo Lapresta",
     "path": "data/people/p_xiaobo_lapresta.json"
+  },
+  {
+    "id": "p_xiaochuan_li",
+    "name": "Xiaochuan Li",
+    "path": "data/people/p_xiaochuan_li.json"
   },
   {
     "id": "p_xiaodan_he",
@@ -767,6 +788,12 @@
     "id": "p_xiaoling_zhu",
     "name": "Xiaoling Zhu",
     "path": "data/people/p_xiaoling_zhu.json"
+  },
+  {
+    "id": "p_xiaolong_zhang",
+    "name": "Xiaolong Zhang",
+    "birth_year": 1975,
+    "path": "data/people/p_xiaolong_zhang.json"
   },
   {
     "id": "p_xiaolu_guo",
@@ -832,6 +859,12 @@
     "name": "Ximena Herrera",
     "birth_year": 1979,
     "path": "data/people/p_ximena_herrera.json"
+  },
+  {
+    "id": "p_ximena_palomino",
+    "name": "Ximena Palomino",
+    "birth_year": 1993,
+    "path": "data/people/p_ximena_palomino.json"
   },
   {
     "id": "p_ximena_rivas",
@@ -914,6 +947,11 @@
     "name": "Xing Yu",
     "birth_year": 1978,
     "path": "data/people/p_xing_yu.json"
+  },
+  {
+    "id": "p_xinglong_zhao",
+    "name": "Xinglong Zhao",
+    "path": "data/people/p_xinglong_zhao.json"
   },
   {
     "id": "p_xingu_del_rosario",
@@ -1155,6 +1193,11 @@
     "name": "Xúlio Abonjo",
     "birth_year": 1974,
     "path": "data/people/p_xulio_abonjo.json"
+  },
+  {
+    "id": "p_xun_liang",
+    "name": "Xun Liang",
+    "path": "data/people/p_xun_liang.json"
   },
   {
     "id": "p_xus_estruch",
