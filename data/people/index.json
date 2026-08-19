@@ -6,6 +6,12 @@
     "path": "data/people/p_xabi_molia.json"
   },
   {
+    "id": "p_xabier_albistur_marin",
+    "name": "Xabier Albistur Marín",
+    "birth_year": 1944,
+    "path": "data/people/p_xabier_albistur_marin.json"
+  },
+  {
     "id": "p_xabier_berzosa",
     "name": "Xabier Berzosa",
     "birth_year": 1976,
@@ -24,6 +30,12 @@
     "path": "data/people/p_xabier_elorriaga.json"
   },
   {
+    "id": "p_xabier_san_sebastian",
+    "name": "Xabier San Sebastian",
+    "birth_year": 1976,
+    "path": "data/people/p_xabier_san_sebastian.json"
+  },
+  {
     "id": "p_xander_berkeley",
     "name": "Xander Berkeley",
     "birth_year": 1955,
@@ -40,6 +52,17 @@
     "name": "Xander Straat",
     "birth_year": 1964,
     "path": "data/people/p_xander_straat.json"
+  },
+  {
+    "id": "p_xapo_ortega",
+    "name": "Xapo Ortega",
+    "birth_year": 1971,
+    "path": "data/people/p_xapo_ortega.json"
+  },
+  {
+    "id": "p_xav_leplae",
+    "name": "Xav Leplae",
+    "path": "data/people/p_xav_leplae.json"
   },
   {
     "id": "p_xaver_hutter",
@@ -104,6 +127,12 @@
     "path": "data/people/p_xavier_amatller.json"
   },
   {
+    "id": "p_xavier_artigas",
+    "name": "Xavier Artigas",
+    "birth_year": 1979,
+    "path": "data/people/p_xavier_artigas.json"
+  },
+  {
     "id": "p_xavier_atance",
     "name": "Xavier Atance",
     "birth_year": 1959,
@@ -114,6 +143,12 @@
     "name": "Xavier Atkins",
     "birth_year": 1999,
     "path": "data/people/p_xavier_atkins.json"
+  },
+  {
+    "id": "p_xavier_baumaxa",
+    "name": "Xavier Baumaxa",
+    "birth_year": 1973,
+    "path": "data/people/p_xavier_baumaxa.json"
   },
   {
     "id": "p_xavier_beauvois",
@@ -131,6 +166,12 @@
     "name": "Xavier Bermúdez",
     "birth_year": 1950,
     "path": "data/people/p_xavier_bermudez.json"
+  },
+  {
+    "id": "p_xavier_boiffier",
+    "name": "Xavier Boiffier",
+    "birth_year": 1980,
+    "path": "data/people/p_xavier_boiffier.json"
   },
   {
     "id": "p_xavier_boulanger",
@@ -186,6 +227,18 @@
     "path": "data/people/p_xavier_de_lauzanne.json"
   },
   {
+    "id": "p_xavier_de_rosnay",
+    "name": "Xavier de Rosnay",
+    "birth_year": 1982,
+    "path": "data/people/p_xavier_de_rosnay.json"
+  },
+  {
+    "id": "p_xavier_delmas",
+    "name": "Xavier Delmas",
+    "birth_year": 1952,
+    "path": "data/people/p_xavier_delmas.json"
+  },
+  {
     "id": "p_xavier_deltell",
     "name": "Xavier Deltell",
     "birth_year": 1958,
@@ -196,6 +249,12 @@
     "name": "Xavier Deluc",
     "birth_year": 1958,
     "path": "data/people/p_xavier_deluc.json"
+  },
+  {
+    "id": "p_xavier_diskeuve",
+    "name": "Xavier Diskeuve",
+    "birth_year": 1961,
+    "path": "data/people/p_xavier_diskeuve.json"
   },
   {
     "id": "p_xavier_dolan",
@@ -238,6 +297,11 @@
     "name": "Xavier Giannoli",
     "birth_year": 1972,
     "path": "data/people/p_xavier_giannoli.json"
+  },
+  {
+    "id": "p_xavier_horan",
+    "name": "Xavier Horan",
+    "path": "data/people/p_xavier_horan.json"
   },
   {
     "id": "p_xavier_hosten",
@@ -485,6 +549,12 @@
     "path": "data/people/p_xiao_yang.json"
   },
   {
+    "id": "p_xiaofeng_li",
+    "name": "Xiaofeng Li",
+    "birth_year": 1977,
+    "path": "data/people/p_xiaofeng_li.json"
+  },
+  {
     "id": "p_xiaoli_shao",
     "name": "Xiaoli Shao",
     "path": "data/people/p_xiaoli_shao.json"
@@ -542,10 +612,22 @@
     "path": "data/people/p_ximena_herrera.json"
   },
   {
+    "id": "p_ximena_romo",
+    "name": "Ximena Romo",
+    "birth_year": 1990,
+    "path": "data/people/p_ximena_romo.json"
+  },
+  {
     "id": "p_ximena_rubio",
     "name": "Ximena Rubio",
     "birth_year": 1978,
     "path": "data/people/p_ximena_rubio.json"
+  },
+  {
+    "id": "p_xin_baiqing",
+    "name": "Xin Baiqing",
+    "birth_year": 1973,
+    "path": "data/people/p_xin_baiqing.json"
   },
   {
     "id": "p_xin_lee",
@@ -558,6 +640,12 @@
     "name": "Xin Sarith Wuku",
     "birth_year": 1981,
     "path": "data/people/p_xin_sarith_wuku.json"
+  },
+  {
+    "id": "p_xin_yukun",
+    "name": "Xin Yukun",
+    "birth_year": 1984,
+    "path": "data/people/p_xin_yukun.json"
   },
   {
     "id": "p_xin_zhang",
@@ -575,6 +663,11 @@
     "name": "Xing Yu",
     "birth_year": 1978,
     "path": "data/people/p_xing_yu.json"
+  },
+  {
+    "id": "p_xingu_del_rosario",
+    "name": "Xingu Del Rosario",
+    "path": "data/people/p_xingu_del_rosario.json"
   },
   {
     "id": "p_xinyi_zhang",
@@ -622,6 +715,12 @@
     "name": "Xosha Roquemore",
     "birth_year": 1983,
     "path": "data/people/p_xosha_roquemore.json"
+  },
+  {
+    "id": "p_xu_ang",
+    "name": "Xu Ang",
+    "birth_year": 1978,
+    "path": "data/people/p_xu_ang.json"
   },
   {
     "id": "p_xu_fan",
