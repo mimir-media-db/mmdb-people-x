@@ -54,6 +54,12 @@
     "path": "data/people/p_xander_straat.json"
   },
   {
+    "id": "p_xantha_radley",
+    "name": "Xantha Radley",
+    "birth_year": 1974,
+    "path": "data/people/p_xantha_radley.json"
+  },
+  {
     "id": "p_xapo_ortega",
     "name": "Xapo Ortega",
     "birth_year": 1971,
@@ -166,6 +172,11 @@
     "name": "Xavier Bermúdez",
     "birth_year": 1950,
     "path": "data/people/p_xavier_bermudez.json"
+  },
+  {
+    "id": "p_xavier_blanchot",
+    "name": "Xavier Blanchot",
+    "path": "data/people/p_xavier_blanchot.json"
   },
   {
     "id": "p_xavier_boiffier",
@@ -577,6 +588,12 @@
     "path": "data/people/p_xiaoshenyang.json"
   },
   {
+    "id": "p_xiaoyu_qin",
+    "name": "Xiaoyu Qin",
+    "birth_year": 1973,
+    "path": "data/people/p_xiaoyu_qin.json"
+  },
+  {
     "id": "p_xie_fei",
     "name": "Xie Fei",
     "birth_year": 1942,
@@ -727,6 +744,11 @@
     "name": "Xu Fan",
     "birth_year": 1967,
     "path": "data/people/p_xu_fan.json"
+  },
+  {
+    "id": "p_xu_fang",
+    "name": "Xu Fang",
+    "path": "data/people/p_xu_fang.json"
   },
   {
     "id": "p_xu_geng",
