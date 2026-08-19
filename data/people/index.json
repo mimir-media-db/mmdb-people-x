@@ -59,6 +59,11 @@
     "path": "data/people/p_xavi_berraondo.json"
   },
   {
+    "id": "p_xavi_doz",
+    "name": "Xavi Doz",
+    "path": "data/people/p_xavi_doz.json"
+  },
+  {
     "id": "p_xavi_gimenez",
     "name": "Xavi Giménez",
     "birth_year": 1969,
@@ -230,6 +235,12 @@
     "path": "data/people/p_xavier_lee.json"
   },
   {
+    "id": "p_xavier_legrand",
+    "name": "Xavier Legrand",
+    "birth_year": 1979,
+    "path": "data/people/p_xavier_legrand.json"
+  },
+  {
     "id": "p_xavier_letourneur",
     "name": "Xavier Letourneur",
     "birth_year": 1952,
@@ -387,6 +398,17 @@
     "path": "data/people/p_xiao_rongsheng.json"
   },
   {
+    "id": "p_xiao_yang",
+    "name": "Xiao Yang",
+    "birth_year": 1980,
+    "path": "data/people/p_xiao_yang.json"
+  },
+  {
+    "id": "p_xiaoling_zhu",
+    "name": "Xiaoling Zhu",
+    "path": "data/people/p_xiaoling_zhu.json"
+  },
+  {
     "id": "p_xiaolu_guo",
     "name": "Xiaolu Guo",
     "birth_year": 1973,
@@ -516,6 +538,12 @@
     "path": "data/people/p_xu_xiaoxi.json"
   },
   {
+    "id": "p_xu_xin",
+    "name": "Xu Xin",
+    "birth_year": 1990,
+    "path": "data/people/p_xu_xin.json"
+  },
+  {
     "id": "p_xu_yajun",
     "name": "Xu Yajun",
     "birth_year": 1964,
@@ -555,6 +583,12 @@
     "path": "data/people/p_xuan_van_nguyen.json"
   },
   {
+    "id": "p_xue_xiaolu",
+    "name": "Xue Xiaolu",
+    "birth_year": 1970,
+    "path": "data/people/p_xue_xiaolu.json"
+  },
+  {
     "id": "p_xulio_abonjo",
     "name": "Xúlio Abonjo",
     "birth_year": 1974,
@@ -565,6 +599,18 @@
     "name": "Xuxa",
     "birth_year": 1963,
     "path": "data/people/p_xuxa.json"
+  },
+  {
+    "id": "p_xymena_zaniewskachwedczuk",
+    "name": "Xymena Zaniewska-Chwedczuk",
+    "birth_year": 1927,
+    "path": "data/people/p_xymena_zaniewskachwedczuk.json"
+  },
+  {
+    "id": "p_xyriel_manabat",
+    "name": "Xyriel Manabat",
+    "birth_year": 2004,
+    "path": "data/people/p_xyriel_manabat.json"
   },
   {
     "id": "p_xzibit",
