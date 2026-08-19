@@ -87,6 +87,12 @@
     "path": "data/people/p_xanaxtasia.json"
   },
   {
+    "id": "p_xande_valois",
+    "name": "Xande Valois",
+    "birth_year": 2004,
+    "path": "data/people/p_xande_valois.json"
+  },
+  {
     "id": "p_xander_berkeley",
     "name": "Xander Berkeley",
     "birth_year": 1955,
