@@ -1,5 +1,11 @@
 [
   {
+    "id": "p_xabier_elorriaga",
+    "name": "Xabier Elorriaga",
+    "birth_year": 1944,
+    "path": "data/people/p_xabier_elorriaga.json"
+  },
+  {
     "id": "p_xander_berkeley",
     "name": "Xander Berkeley",
     "birth_year": 1955,
@@ -10,6 +16,12 @@
     "name": "Xaver Hutter",
     "birth_year": 1976,
     "path": "data/people/p_xaver_hutter.json"
+  },
+  {
+    "id": "p_xaver_schwarzenberger",
+    "name": "Xaver Schwarzenberger",
+    "birth_year": 1946,
+    "path": "data/people/p_xaver_schwarzenberger.json"
   },
   {
     "id": "p_xavier_beauvois",
@@ -42,6 +54,12 @@
     "path": "data/people/p_xavier_durringer.json"
   },
   {
+    "id": "p_xavier_giannoli",
+    "name": "Xavier Giannoli",
+    "birth_year": 1972,
+    "path": "data/people/p_xavier_giannoli.json"
+  },
+  {
     "id": "p_xavier_koller",
     "name": "Xavier Koller",
     "birth_year": 1944,
@@ -60,6 +78,12 @@
     "path": "data/people/p_xavier_marchand.json"
   },
   {
+    "id": "p_xavier_morinlefort",
+    "name": "Xavier Morin-Lefort",
+    "birth_year": 1986,
+    "path": "data/people/p_xavier_morinlefort.json"
+  },
+  {
     "id": "p_xi_meijuan",
     "name": "Xi Meijuan",
     "birth_year": 1955,
@@ -70,6 +94,17 @@
     "name": "Xia Yu",
     "birth_year": 1976,
     "path": "data/people/p_xia_yu.json"
+  },
+  {
+    "id": "p_xiang_yun",
+    "name": "Xiang Yun",
+    "birth_year": 1961,
+    "path": "data/people/p_xiang_yun.json"
+  },
+  {
+    "id": "p_xiao_rongsheng",
+    "name": "Xiao Rongsheng",
+    "path": "data/people/p_xiao_rongsheng.json"
   },
   {
     "id": "p_xie_fei",
@@ -95,10 +130,27 @@
     "path": "data/people/p_xion_lim.json"
   },
   {
+    "id": "p_xose_manuel_olveira",
+    "name": "Xosé Manuel Olveira",
+    "birth_year": 1955,
+    "path": "data/people/p_xose_manuel_olveira.json"
+  },
+  {
     "id": "p_xu_fan",
     "name": "Xu Fan",
     "birth_year": 1967,
     "path": "data/people/p_xu_fan.json"
+  },
+  {
+    "id": "p_xu_geng",
+    "name": "Xu Geng",
+    "path": "data/people/p_xu_geng.json"
+  },
+  {
+    "id": "p_xu_jinglei",
+    "name": "Xu Jinglei",
+    "birth_year": 1974,
+    "path": "data/people/p_xu_jinglei.json"
   },
   {
     "id": "p_xu_min",
@@ -107,9 +159,21 @@
     "path": "data/people/p_xu_min.json"
   },
   {
+    "id": "p_xu_yajun",
+    "name": "Xu Yajun",
+    "birth_year": 1964,
+    "path": "data/people/p_xu_yajun.json"
+  },
+  {
     "id": "p_xuan_mai",
     "name": "Xuan Mai",
     "path": "data/people/p_xuan_mai.json"
+  },
+  {
+    "id": "p_xuan_thuc",
+    "name": "Xuân Thức",
+    "birth_year": 1932,
+    "path": "data/people/p_xuan_thuc.json"
   },
   {
     "id": "p_xuxa",
