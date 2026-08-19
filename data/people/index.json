@@ -1,5 +1,11 @@
 [
   {
+    "id": "p_xabier_berzosa",
+    "name": "Xabier Berzosa",
+    "birth_year": 1976,
+    "path": "data/people/p_xabier_berzosa.json"
+  },
+  {
     "id": "p_xabier_elorriaga",
     "name": "Xabier Elorriaga",
     "birth_year": 1944,
@@ -29,6 +35,18 @@
     "path": "data/people/p_xavery_zulawski.json"
   },
   {
+    "id": "p_xavi_berraondo",
+    "name": "Xavi Berraondo",
+    "birth_year": 1957,
+    "path": "data/people/p_xavi_berraondo.json"
+  },
+  {
+    "id": "p_xavi_sala",
+    "name": "Xavi Sala",
+    "birth_year": 1970,
+    "path": "data/people/p_xavi_sala.json"
+  },
+  {
     "id": "p_xavier_beauvois",
     "name": "Xavier Beauvois",
     "birth_year": 1967,
@@ -55,6 +73,12 @@
     "id": "p_xavier_brillat",
     "name": "Xavier Brillat",
     "path": "data/people/p_xavier_brillat.json"
+  },
+  {
+    "id": "p_xavier_couture",
+    "name": "Xavier Couture",
+    "birth_year": 1951,
+    "path": "data/people/p_xavier_couture.json"
   },
   {
     "id": "p_xavier_de_choudens",
@@ -87,6 +111,18 @@
     "path": "data/people/p_xavier_durringer.json"
   },
   {
+    "id": "p_xavier_garbajosa",
+    "name": "Xavier Garbajosa",
+    "birth_year": 1976,
+    "path": "data/people/p_xavier_garbajosa.json"
+  },
+  {
+    "id": "p_xavier_gens",
+    "name": "Xavier Gens",
+    "birth_year": 1975,
+    "path": "data/people/p_xavier_gens.json"
+  },
+  {
     "id": "p_xavier_giannoli",
     "name": "Xavier Giannoli",
     "birth_year": 1972,
@@ -97,6 +133,12 @@
     "name": "Xavier Koller",
     "birth_year": 1944,
     "path": "data/people/p_xavier_koller.json"
+  },
+  {
+    "id": "p_xavier_lafitte",
+    "name": "Xavier Lafitte",
+    "birth_year": 1974,
+    "path": "data/people/p_xavier_lafitte.json"
   },
   {
     "id": "p_xavier_laurent",
@@ -193,6 +235,11 @@
     "path": "data/people/p_xie_fei.json"
   },
   {
+    "id": "p_xie_gang",
+    "name": "Xie Gang",
+    "path": "data/people/p_xie_gang.json"
+  },
+  {
     "id": "p_xie_lan",
     "name": "Xie Lan",
     "birth_year": 1971,
@@ -226,6 +273,12 @@
     "id": "p_xion_lim",
     "name": "Xion Lim",
     "path": "data/people/p_xion_lim.json"
+  },
+  {
+    "id": "p_xose_barato",
+    "name": "Xosé Barato",
+    "birth_year": 1979,
+    "path": "data/people/p_xose_barato.json"
   },
   {
     "id": "p_xose_manuel_olveira",
@@ -283,6 +336,12 @@
     "id": "p_xuan_van_nguyen",
     "name": "Xuan Van Nguyen",
     "path": "data/people/p_xuan_van_nguyen.json"
+  },
+  {
+    "id": "p_xulio_abonjo",
+    "name": "Xúlio Abonjo",
+    "birth_year": 1974,
+    "path": "data/people/p_xulio_abonjo.json"
   },
   {
     "id": "p_xuxa",
