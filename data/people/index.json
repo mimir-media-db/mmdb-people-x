@@ -18,6 +18,12 @@
     "path": "data/people/p_xander_berkeley.json"
   },
   {
+    "id": "p_xander_straat",
+    "name": "Xander Straat",
+    "birth_year": 1964,
+    "path": "data/people/p_xander_straat.json"
+  },
+  {
     "id": "p_xaver_hutter",
     "name": "Xaver Hutter",
     "birth_year": 1976,
@@ -47,6 +53,12 @@
     "path": "data/people/p_xavi_sala.json"
   },
   {
+    "id": "p_xavier_atance",
+    "name": "Xavier Atance",
+    "birth_year": 1959,
+    "path": "data/people/p_xavier_atance.json"
+  },
+  {
     "id": "p_xavier_beauvois",
     "name": "Xavier Beauvois",
     "birth_year": 1967,
@@ -73,6 +85,12 @@
     "id": "p_xavier_brillat",
     "name": "Xavier Brillat",
     "path": "data/people/p_xavier_brillat.json"
+  },
+  {
+    "id": "p_xavier_clement",
+    "name": "Xavier Clément",
+    "birth_year": 1950,
+    "path": "data/people/p_xavier_clement.json"
   },
   {
     "id": "p_xavier_couture",
@@ -129,6 +147,12 @@
     "path": "data/people/p_xavier_giannoli.json"
   },
   {
+    "id": "p_xavier_hosten",
+    "name": "Xavier Hosten",
+    "birth_year": 1981,
+    "path": "data/people/p_xavier_hosten.json"
+  },
+  {
     "id": "p_xavier_koller",
     "name": "Xavier Koller",
     "birth_year": 1944,
@@ -165,10 +189,28 @@
     "path": "data/people/p_xavier_marchand.json"
   },
   {
+    "id": "p_xavier_montanya",
+    "name": "Xavier Montanyà",
+    "birth_year": 1960,
+    "path": "data/people/p_xavier_montanya.json"
+  },
+  {
     "id": "p_xavier_morinlefort",
     "name": "Xavier Morin-Lefort",
     "birth_year": 1986,
     "path": "data/people/p_xavier_morinlefort.json"
+  },
+  {
+    "id": "p_xavier_palud",
+    "name": "Xavier Palud",
+    "birth_year": 1970,
+    "path": "data/people/p_xavier_palud.json"
+  },
+  {
+    "id": "p_xavier_samuel",
+    "name": "Xavier Samuel",
+    "birth_year": 1983,
+    "path": "data/people/p_xavier_samuel.json"
   },
   {
     "id": "p_xavier_serrat_i_crespo",
@@ -187,6 +229,11 @@
     "name": "Xenia Seeberg",
     "birth_year": 1967,
     "path": "data/people/p_xenia_seeberg.json"
+  },
+  {
+    "id": "p_xeth_feinberg",
+    "name": "Xeth Feinberg",
+    "path": "data/people/p_xeth_feinberg.json"
   },
   {
     "id": "p_xhilda_lapardhaja",
@@ -227,6 +274,12 @@
     "id": "p_xiao_rongsheng",
     "name": "Xiao Rongsheng",
     "path": "data/people/p_xiao_rongsheng.json"
+  },
+  {
+    "id": "p_xiaolu_guo",
+    "name": "Xiaolu Guo",
+    "birth_year": 1973,
+    "path": "data/people/p_xiaolu_guo.json"
   },
   {
     "id": "p_xie_fei",
