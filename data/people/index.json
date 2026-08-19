@@ -611,6 +611,12 @@
     "path": "data/people/p_xavier_robic.json"
   },
   {
+    "id": "p_xavier_rombaut",
+    "name": "Xavier Rombaut",
+    "birth_year": 1979,
+    "path": "data/people/p_xavier_rombaut.json"
+  },
+  {
     "id": "p_xavier_ruiz",
     "name": "Xavier Ruiz",
     "birth_year": 1970,
@@ -679,6 +685,11 @@
     "name": "Xawery Żuławski",
     "birth_year": 1971,
     "path": "data/people/p_xawery_zuawski.json"
+  },
+  {
+    "id": "p_xawier_kulas",
+    "name": "Xawier Kulas",
+    "path": "data/people/p_xawier_kulas.json"
   },
   {
     "id": "p_xb_ruiz",
@@ -779,6 +790,11 @@
     "name": "Xiana Gómez-Díaz",
     "birth_year": 1981,
     "path": "data/people/p_xiana_gomezdiaz.json"
+  },
+  {
+    "id": "p_xianen_chen",
+    "name": "Xian'en Chen",
+    "path": "data/people/p_xianen_chen.json"
   },
   {
     "id": "p_xiang_yang_li",
@@ -1042,6 +1058,12 @@
     "path": "data/people/p_xin_zhang.json"
   },
   {
+    "id": "p_xin_zhilei",
+    "name": "Xin Zhilei",
+    "birth_year": 1986,
+    "path": "data/people/p_xin_zhilei.json"
+  },
+  {
     "id": "p_xina_sui",
     "name": "Xina Sui",
     "birth_year": 1991,
@@ -1069,6 +1091,11 @@
     "name": "Xing Yu",
     "birth_year": 1978,
     "path": "data/people/p_xing_yu.json"
+  },
+  {
+    "id": "p_xingchen_wang",
+    "name": "Xingchen Wang",
+    "path": "data/people/p_xingchen_wang.json"
   },
   {
     "id": "p_xinglong_zhao",
@@ -1113,6 +1140,12 @@
     "name": "Xiu Zongdi",
     "birth_year": 1939,
     "path": "data/people/p_xiu_zongdi.json"
+  },
+  {
+    "id": "p_xoan_forneas",
+    "name": "Xoán Fórneas",
+    "birth_year": 1993,
+    "path": "data/people/p_xoan_forneas.json"
   },
   {
     "id": "p_xochi_blymyer",
