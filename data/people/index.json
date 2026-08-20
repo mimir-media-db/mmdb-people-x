@@ -89,6 +89,11 @@
     "path": "data/people/p_xacio_rodriguez_bano.json"
   },
   {
+    "id": "p_xalba_ramirez",
+    "name": "Xalba Ramirez",
+    "path": "data/people/p_xalba_ramirez.json"
+  },
+  {
     "id": "p_xalfonso",
     "name": "X-Alfonso",
     "birth_year": 1972,
