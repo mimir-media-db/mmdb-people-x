@@ -17,6 +17,12 @@
     "path": "data/people/p_xabi_solano.json"
   },
   {
+    "id": "p_xabi_zabaleta",
+    "name": "Xabi Zabaleta",
+    "birth_year": 1976,
+    "path": "data/people/p_xabi_zabaleta.json"
+  },
+  {
     "id": "p_xabiani_ponce_de_leon",
     "name": "Xabiani Ponce de León",
     "birth_year": 1993,
@@ -495,6 +501,11 @@
     "name": "Xavier Estévez",
     "birth_year": 1966,
     "path": "data/people/p_xavier_estevez.json"
+  },
+  {
+    "id": "p_xavier_font",
+    "name": "Xavier Font",
+    "path": "data/people/p_xavier_font.json"
   },
   {
     "id": "p_xavier_fournier",
@@ -1017,6 +1028,11 @@
     "path": "data/people/p_xiaofeng_li.json"
   },
   {
+    "id": "p_xiaohan_han",
+    "name": "Xiaohan Han",
+    "path": "data/people/p_xiaohan_han.json"
+  },
+  {
     "id": "p_xiaoli_shao",
     "name": "Xiaoli Shao",
     "path": "data/people/p_xiaoli_shao.json"
@@ -1113,6 +1129,11 @@
     "id": "p_ximena_ferrer_olaso",
     "name": "Ximena Ferrer Olaso",
     "path": "data/people/p_ximena_ferrer_olaso.json"
+  },
+  {
+    "id": "p_ximena_garcia_lecuona",
+    "name": "Ximena García Lecuona",
+    "path": "data/people/p_ximena_garcia_lecuona.json"
   },
   {
     "id": "p_ximena_herrera",
