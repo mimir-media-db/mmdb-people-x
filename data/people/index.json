@@ -139,6 +139,11 @@
     "path": "data/people/p_xander_van_vledder.json"
   },
   {
+    "id": "p_xandra_popescu",
+    "name": "Xandra Popescu",
+    "path": "data/people/p_xandra_popescu.json"
+  },
+  {
     "id": "p_xantha_radley",
     "name": "Xantha Radley",
     "birth_year": 1974,
@@ -218,6 +223,12 @@
     "name": "Xavi Hernández",
     "birth_year": 1980,
     "path": "data/people/p_xavi_hernandez.json"
+  },
+  {
+    "id": "p_xavi_lloses",
+    "name": "Xavi Lloses",
+    "birth_year": 1975,
+    "path": "data/people/p_xavi_lloses.json"
   },
   {
     "id": "p_xavi_mira",
