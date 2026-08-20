@@ -53,6 +53,12 @@
     "path": "data/people/p_xabier_elorriaga.json"
   },
   {
+    "id": "p_xabier_erkizia",
+    "name": "Xabier Erkizia",
+    "birth_year": 1974,
+    "path": "data/people/p_xabier_erkizia.json"
+  },
+  {
     "id": "p_xabier_etxeberria",
     "name": "Xabier Etxeberria",
     "birth_year": 1974,
@@ -686,6 +692,11 @@
     "name": "Xavier Palud",
     "birth_year": 1970,
     "path": "data/people/p_xavier_palud.json"
+  },
+  {
+    "id": "p_xavier_polycarpe",
+    "name": "Xavier Polycarpe",
+    "path": "data/people/p_xavier_polycarpe.json"
   },
   {
     "id": "p_xavier_pons",
