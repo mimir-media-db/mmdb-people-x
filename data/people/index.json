@@ -514,6 +514,12 @@
     "path": "data/people/p_xavier_hosten.json"
   },
   {
+    "id": "p_xavier_jamaux",
+    "name": "Xavier Jamaux",
+    "birth_year": 1967,
+    "path": "data/people/p_xavier_jamaux.json"
+  },
+  {
     "id": "p_xavier_jozelon",
     "name": "Xavier Jozelon",
     "birth_year": 1979,
