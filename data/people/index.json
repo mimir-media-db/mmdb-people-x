@@ -1226,6 +1226,11 @@
     "path": "data/people/p_xing_yu.json"
   },
   {
+    "id": "p_xing_yuanping",
+    "name": "Xing Yuanping",
+    "path": "data/people/p_xing_yuanping.json"
+  },
+  {
     "id": "p_xingchen_wang",
     "name": "Xingchen Wang",
     "path": "data/people/p_xingchen_wang.json"
