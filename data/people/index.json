@@ -849,6 +849,12 @@
     "path": "data/people/p_xian_lim.json"
   },
   {
+    "id": "p_xian_zhang",
+    "name": "Xian Zhang",
+    "birth_year": 1972,
+    "path": "data/people/p_xian_zhang.json"
+  },
+  {
     "id": "p_xiana_arias",
     "name": "Xiana Arias",
     "birth_year": 1983,
@@ -1467,6 +1473,12 @@
     "id": "p_xuban_intxausti",
     "name": "Xuban Intxausti",
     "path": "data/people/p_xuban_intxausti.json"
+  },
+  {
+    "id": "p_xue_chen",
+    "name": "Xue Chen",
+    "birth_year": 1989,
+    "path": "data/people/p_xue_chen.json"
   },
   {
     "id": "p_xue_xiaolu",
