@@ -589,6 +589,12 @@
     "path": "data/people/p_xavier_manrique.json"
   },
   {
+    "id": "p_xavier_manteiga",
+    "name": "Xavier Manteiga",
+    "birth_year": 1968,
+    "path": "data/people/p_xavier_manteiga.json"
+  },
+  {
     "id": "p_xavier_marchand",
     "name": "Xavier Marchand",
     "birth_year": 1973,
@@ -604,6 +610,12 @@
     "name": "Xavier Mathieu",
     "birth_year": 1965,
     "path": "data/people/p_xavier_mathieu.json"
+  },
+  {
+    "id": "p_xavier_matthieu",
+    "name": "Xavier Matthieu",
+    "birth_year": 1952,
+    "path": "data/people/p_xavier_matthieu.json"
   },
   {
     "id": "p_xavier_montanya",
