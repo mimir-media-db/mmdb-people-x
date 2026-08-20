@@ -1422,6 +1422,11 @@
     "path": "data/people/p_xu_shendong.json"
   },
   {
+    "id": "p_xu_xiaoming",
+    "name": "Xu Xiaoming",
+    "path": "data/people/p_xu_xiaoming.json"
+  },
+  {
     "id": "p_xu_xiaoxi",
     "name": "Xu Xiaoxi",
     "birth_year": 1981,
