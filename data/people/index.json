@@ -65,6 +65,12 @@
     "path": "data/people/p_xacio_rodriguez_bano.json"
   },
   {
+    "id": "p_xalfonso",
+    "name": "X-Alfonso",
+    "birth_year": 1972,
+    "path": "data/people/p_xalfonso.json"
+  },
+  {
     "id": "p_xan_aranda",
     "name": "Xan Aranda",
     "path": "data/people/p_xan_aranda.json"
@@ -131,6 +137,12 @@
     "name": "Xantha Radley",
     "birth_year": 1974,
     "path": "data/people/p_xantha_radley.json"
+  },
+  {
+    "id": "p_xao_seffcheque",
+    "name": "Xao Seffcheque",
+    "birth_year": 1955,
+    "path": "data/people/p_xao_seffcheque.json"
   },
   {
     "id": "p_xapo_ortega",
@@ -341,6 +353,12 @@
     "id": "p_xavier_cancaenglund",
     "name": "Xavier Canca-Englund",
     "path": "data/people/p_xavier_cancaenglund.json"
+  },
+  {
+    "id": "p_xavier_capellas",
+    "name": "Xavier Capellas",
+    "birth_year": 1962,
+    "path": "data/people/p_xavier_capellas.json"
   },
   {
     "id": "p_xavier_clement",
