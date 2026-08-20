@@ -812,6 +812,11 @@
     "path": "data/people/p_xelia_mendesjones.json"
   },
   {
+    "id": "p_xema_fuertes",
+    "name": "Xema Fuertes",
+    "path": "data/people/p_xema_fuertes.json"
+  },
+  {
     "id": "p_xenia_georgia_assenza",
     "name": "Xenia Georgia Assenza",
     "birth_year": 1990,
