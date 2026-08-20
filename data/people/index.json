@@ -1012,6 +1012,12 @@
     "path": "data/people/p_xiaoyu_qin.json"
   },
   {
+    "id": "p_xico_sa",
+    "name": "Xico Sá",
+    "birth_year": 1962,
+    "path": "data/people/p_xico_sa.json"
+  },
+  {
     "id": "p_xie_fei",
     "name": "Xie Fei",
     "birth_year": 1942,
