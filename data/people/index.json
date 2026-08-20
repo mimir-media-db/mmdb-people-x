@@ -1369,6 +1369,11 @@
     "path": "data/people/p_xu_ang.json"
   },
   {
+    "id": "p_xu_baoqi",
+    "name": "Xu Baoqi",
+    "path": "data/people/p_xu_baoqi.json"
+  },
+  {
     "id": "p_xu_bin",
     "name": "Xu Bin",
     "birth_year": 1989,
@@ -1477,6 +1482,11 @@
     "name": "Xu Yajun",
     "birth_year": 1964,
     "path": "data/people/p_xu_yajun.json"
+  },
+  {
+    "id": "p_xu_yimeng",
+    "name": "Xu Yi-Meng",
+    "path": "data/people/p_xu_yimeng.json"
   },
   {
     "id": "p_xu_zheng",
