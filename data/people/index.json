@@ -1485,6 +1485,11 @@
     "path": "data/people/p_xuxa.json"
   },
   {
+    "id": "p_xxx_groovemaster",
+    "name": "XXX Groovemaster",
+    "path": "data/people/p_xxx_groovemaster.json"
+  },
+  {
     "id": "p_xymena_zaniewskachwedczuk",
     "name": "Xymena Zaniewska-Chwedczuk",
     "birth_year": 1927,
