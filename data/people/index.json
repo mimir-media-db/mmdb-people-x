@@ -450,6 +450,12 @@
     "path": "data/people/p_xavier_dolan.json"
   },
   {
+    "id": "p_xavier_dorison",
+    "name": "Xavier Dorison",
+    "birth_year": 1972,
+    "path": "data/people/p_xavier_dorison.json"
+  },
+  {
     "id": "p_xavier_durringer",
     "name": "Xavier Durringer",
     "birth_year": 1963,
@@ -898,6 +904,12 @@
     "id": "p_xiao_feng",
     "name": "Xiao Feng",
     "path": "data/people/p_xiao_feng.json"
+  },
+  {
+    "id": "p_xiao_he",
+    "name": "Xiao He",
+    "birth_year": 1918,
+    "path": "data/people/p_xiao_he.json"
   },
   {
     "id": "p_xiao_jiang",
